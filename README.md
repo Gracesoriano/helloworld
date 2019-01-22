@@ -1,4 +1,4 @@
 # helloworld
 creacion de clases
 
-soy estudiante de progemacion
+soy estudiante de programacion
